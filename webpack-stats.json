@@ -1,0 +1,14 @@
+{
+  "status": "done",
+  "assets": {
+    "main-e7bc3f4b70fdf6c953db.js": {
+      "name": "main-e7bc3f4b70fdf6c953db.js",
+      "path": "/home/spinelli/Documentos/learning_REACT/assets/dist/main-e7bc3f4b70fdf6c953db.js"
+    }
+  },
+  "chunks": {
+    "main": [
+      "main-e7bc3f4b70fdf6c953db.js"
+    ]
+  }
+}
